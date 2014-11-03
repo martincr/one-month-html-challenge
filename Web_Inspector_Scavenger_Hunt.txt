@@ -1,0 +1,19 @@
+What color is the date link on this site "5th Jun 2012"?
+
+#c6c6c6
+
+What heading tag (ex. h1, h2, h3, etc) is being used for the title of each blog post?
+
+h2
+
+What is the width and height of the main GIF?
+
+446 x 252
+
+What is the width of the sidebar?
+
+332
+
+What CSS declaration would you add to the web inspector to make all the images disappear?
+
+img {display: none};
