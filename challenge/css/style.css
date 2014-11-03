@@ -1,0 +1,69 @@
+body {
+  line-height: 1.5;
+
+  /* Full Page Background Recipe */
+  background: url('../images/patrick-bateman.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  padding: 15px;
+  border-radius: 25px;
+  text-align: left;
+
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  color: silver;
+
+  /*font-size: 10px;
+  color: red;*/
+}
+
+.container {
+  width: 500px;
+  border-radius: 40px;
+  padding: 15px;
+  margin: 20px;
+  /*margin: 0 auto;*/
+  background: silver;
+  background: rgba(0,0,0,0.4);
+  float: right;
+  border: 1px solid silver;
+}
+
+h1, h2 {font-family: 'Lato', sans-serif;}
+
+h1 {
+  font-size: 60px;
+  margin-bottom: -40px;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a {
+  color: #BFE35B;
+  text-decoration: none;
+}
+
+dl {
+  padding-left: 20px;
+}
+
+dt {
+  text-decoration: underline;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+img.pad {
+  padding: 20px;
+}
+
+div.social {
+  margin: 0 auto;
+}

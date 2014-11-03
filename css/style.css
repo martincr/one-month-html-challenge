@@ -9,14 +9,14 @@ body {
 
   padding: 15px;
   border-radius: 25px;
-  text-align: center;
+  text-align: left;
 
   font-family: 'Lato', sans-serif;
   line-height: 1.5;
   color: white;
 
-  font-size: 10px;
-  color: red;
+  /*font-size: 10px;
+  color: red;*/
 }
 
 .container {
@@ -27,13 +27,15 @@ body {
   margin: 40px;
   /*margin: 0 auto;*/
   background: black;
-  float: right;
+  /*float: right;*/
 }
+
+h1, h2 {font-family: 'Rokkitt', sans-serif;}
 
 h1 {
   font-size: 80px;
   margin-bottom: -50px;
-  color: blue;
+  /*color: blue;*/
 }
 
 h2 {
